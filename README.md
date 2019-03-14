@@ -1,4 +1,6 @@
-# portfolio
+# Portfolio made in VueJS
+
+url: http://mbonislawski.pl/
 
 ## Project setup
 ```
